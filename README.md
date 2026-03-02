@@ -9,7 +9,7 @@ A modern, responsive personal portfolio website featuring a unique **CSE Termina
 ---
 
 ## 🔗 Live Demo
-**[View Live Project →](https://your-live-link.vercel.app)**
+**[View Live Project →](https://dipraj-portfolio-ten.vercel.app/)**
 
 ## 📸 Screenshots
 <p align="center">
